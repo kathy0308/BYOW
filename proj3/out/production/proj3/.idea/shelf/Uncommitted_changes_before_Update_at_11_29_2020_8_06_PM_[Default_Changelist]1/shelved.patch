@@ -1,0 +1,301 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"BranchesTreeState\">\r\n    <expand>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n    </expand>\r\n    <select />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"8bfb57f1-1b18-44c5-acea-c99bcbf91290\" name=\"Default Changelist\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/byow/Core/Position.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/byow/Core/Engine.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/byow/Core/Engine.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/byow/Core/MapGenerator.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/byow/Core/MapGenerator.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/byow/Core/MapGeneratorTest.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/byow/Core/MapGeneratorTest.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/out/production/proj3/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/out/production/proj3/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/out/production/proj3/byow/Core/Engine.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/out/production/proj3/byow/Core/Engine.class\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/out/production/proj3/byow/Core/MapGenerator$1.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/out/production/proj3/byow/Core/MapGenerator$1.class\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/out/production/proj3/byow/Core/MapGenerator.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/out/production/proj3/byow/Core/MapGenerator.class\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/out/production/proj3/byow/Core/MapGeneratorTest.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/out/production/proj3/byow/Core/MapGeneratorTest.class\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/out/production/proj3/byow/Core/Room.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/out/production/proj3/byow/Core/Room.class\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/out/production/proj3/byow/Core/UnionFind.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/out/production/proj3/byow/Core/UnionFind.class\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Interface\" />\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1kFTlRW1uYJZQgBQ4JgDsmoQ2T3\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"ASKED_ADD_EXTERNAL_FILES\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"project.structure.last.edited\" value=\"Libraries\" />\r\n    <property name=\"project.structure.proportion\" value=\"0.15\" />\r\n    <property name=\"project.structure.side.proportion\" value=\"0.2\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"project.propVCSSupport.Mappings\" />\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Application.Main\">\r\n    <configuration name=\"DemoInputSource\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"byow.InputDemo.DemoInputSource\" />\r\n      <module name=\"proj3\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"byow.InputDemo.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Engine\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"byow.Core.Engine\" />\r\n      <module name=\"proj3\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"byow.Core.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Main\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"byow.Core.Main\" />\r\n      <module name=\"proj3\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"byow.Core.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"MapGeneratorTest\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"byow.Core.MapGeneratorTest\" />\r\n      <module name=\"proj3\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"byow.Core.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"MemoryGame\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"byow.lab13.MemoryGame\" />\r\n      <module name=\"proj3\" />\r\n      <option name=\"PROGRAM_PARAMETERS\" value=\"12345\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"byow.lab13.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration default=\"true\" type=\"JUnit\" factoryName=\"JUnit\">\r\n      <useClassPathOnly />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"\" />\r\n      <option name=\"METHOD_NAME\" value=\"\" />\r\n      <option name=\"TEST_OBJECT\" value=\"class\" />\r\n      <option name=\"VM_PARAMETERS\" value=\"-XX:+ShowCodeDetailsInExceptionMessages\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.Main\" />\r\n        <item itemvalue=\"Application.DemoInputSource\" />\r\n        <item itemvalue=\"Application.Engine\" />\r\n        <item itemvalue=\"Application.MemoryGame\" />\r\n        <item itemvalue=\"Application.MapGeneratorTest\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"8bfb57f1-1b18-44c5-acea-c99bcbf91290\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1605295491295</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1605295491295</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"lab12\">\r\n      <created>1605316869639</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1605316869639</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Added room class, room drawing logic, todos\">\r\n      <created>1605488566508</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1605488566508</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Added random line for clarity\">\r\n      <created>1605488668317</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1605488668317</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"add libs\">\r\n      <created>1605489239204</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1605489239204</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"5\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\r\n    <ignored-roots>\r\n      <path value=\"$PROJECT_DIR$/..\" />\r\n    </ignored-roots>\r\n    <MESSAGE value=\"lab12\" />\r\n    <MESSAGE value=\"Added room class, room drawing logic, todos\" />\r\n    <MESSAGE value=\"Added random line for clarity\" />\r\n    <MESSAGE value=\"add libs\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"add libs\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"1106\" y=\"265\" key=\"FileChooserDialogImpl\" timestamp=\"1605489009625\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"1106\" y=\"265\" key=\"FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605489009625\" />\r\n    <state width=\"720\" height=\"230\" key=\"GridCell.Tab.0.bottom\" timestamp=\"1606384056455\">\r\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\r\n    </state>\r\n    <state width=\"720\" height=\"230\" key=\"GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900\" timestamp=\"1606384056455\" />\r\n    <state width=\"1137\" height=\"282\" key=\"GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605494792524\" />\r\n    <state width=\"720\" height=\"230\" key=\"GridCell.Tab.0.center\" timestamp=\"1606384056454\">\r\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\r\n    </state>\r\n    <state width=\"720\" height=\"230\" key=\"GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900\" timestamp=\"1606384056454\" />\r\n    <state width=\"1137\" height=\"282\" key=\"GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605494792524\" />\r\n    <state width=\"720\" height=\"230\" key=\"GridCell.Tab.0.left\" timestamp=\"1606384056453\">\r\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\r\n    </state>\r\n    <state width=\"720\" height=\"230\" key=\"GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900\" timestamp=\"1606384056453\" />\r\n    <state width=\"1137\" height=\"282\" key=\"GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605494792524\" />\r\n    <state width=\"720\" height=\"230\" key=\"GridCell.Tab.0.right\" timestamp=\"1606384056454\">\r\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\r\n    </state>\r\n    <state width=\"720\" height=\"230\" key=\"GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900\" timestamp=\"1606384056454\" />\r\n    <state width=\"1137\" height=\"282\" key=\"GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605494792524\" />\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.1.bottom\" timestamp=\"1605317133850\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605317133850\" />\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.1.center\" timestamp=\"1605317133850\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605317133850\" />\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.1.left\" timestamp=\"1605317133850\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605317133850\" />\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.1.right\" timestamp=\"1605317133850\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605317133850\" />\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.2.bottom\" timestamp=\"1605317133850\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605317133850\" />\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.2.center\" timestamp=\"1605317133850\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605317133850\" />\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.2.left\" timestamp=\"1605317133850\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605317133850\" />\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.2.right\" timestamp=\"1605317133850\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605317133850\" />\r\n    <state x=\"880\" y=\"98\" key=\"SettingsEditor\" timestamp=\"1605489411911\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"880\" y=\"98\" key=\"SettingsEditor/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605489411911\" />\r\n    <state x=\"552\" y=\"253\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1605489244587\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"552\" y=\"253\" key=\"Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605489244587\" />\r\n    <state x=\"1175\" y=\"0\" width=\"265\" height=\"900\" key=\"dock-window-1\" timestamp=\"1606379231191\">\r\n      <screen x=\"0\" y=\"25\" width=\"1440\" height=\"813\" />\r\n    </state>\r\n    <state x=\"1055\" y=\"0\" width=\"385\" height=\"900\" key=\"dock-window-1/0.0.1440.900@0.0.1440.900\" timestamp=\"1606376887169\" />\r\n    <state x=\"754\" y=\"0\" width=\"686\" height=\"900\" key=\"dock-window-1/0.25.1440.809@0.25.1440.809\" timestamp=\"1606377228243\" />\r\n    <state x=\"1175\" y=\"0\" width=\"265\" height=\"900\" key=\"dock-window-1/0.25.1440.813@0.25.1440.813\" timestamp=\"1606379231191\" />\r\n  </component>\r\n  <component name=\"com.intellij.coverage.CoverageDataManagerImpl\">\r\n    <SUITE FILE_PATH=\"coverage/fa20_proj3_g472$MemoryGame.ic\" NAME=\"MemoryGame Coverage Results\" MODIFIED=\"1606366026661\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"idea\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\">\r\n      <FILTER>byow.lab13.*</FILTER>\r\n    </SUITE>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision ed7e4875db3fba3b4667fd84a877781ce8a3f50b)
++++ .idea/workspace.xml	(date 1606709193565)
+@@ -19,19 +19,13 @@
+     <select />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="8bfb57f1-1b18-44c5-acea-c99bcbf91290" name="Default Changelist" comment="">
+-      <change afterPath="$PROJECT_DIR$/byow/Core/Position.java" afterDir="false" />
++    <list default="true" id="8bfb57f1-1b18-44c5-acea-c99bcbf91290" name="Default Changelist" comment="refactor even more, basics working">
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_21_2020_11_07_AM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_21_2020_11_07_AM__Default_Changelist_.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_21_2020_12_16_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_21_2020_12_16_PM__Default_Changelist_.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_21_2020_12_21_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_21_2020_12_21_PM__Default_Changelist_.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/byow/Core/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/byow/Core/Engine.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/byow/Core/MapGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/byow/Core/MapGenerator.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/byow/Core/MapGeneratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/byow/Core/MapGeneratorTest.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/out/production/proj3/.idea/shelf/Uncommitted_changes_before_Update_at_11_21_2020_11_07_AM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj3/.idea/shelf/Uncommitted_changes_before_Update_at_11_21_2020_11_07_AM__Default_Changelist_.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/out/production/proj3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj3/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/out/production/proj3/byow/Core/Engine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj3/byow/Core/Engine.class" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/out/production/proj3/byow/Core/MapGenerator$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj3/byow/Core/MapGenerator$1.class" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/out/production/proj3/byow/Core/MapGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj3/byow/Core/MapGenerator.class" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/out/production/proj3/byow/Core/MapGeneratorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj3/byow/Core/MapGeneratorTest.class" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/out/production/proj3/byow/Core/Room.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj3/byow/Core/Room.class" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/out/production/proj3/byow/Core/UnionFind.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj3/byow/Core/UnionFind.class" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -192,7 +186,28 @@
+       <option name="project" value="LOCAL" />
+       <updated>1605489239204</updated>
+     </task>
+-    <option name="localTasksCounter" value="5" />
++    <task id="LOCAL-00005" summary="fill in main loop in Engine">
++      <created>1606611372899</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1606611372899</updated>
++    </task>
++    <task id="LOCAL-00006" summary="refactor some more">
++      <created>1606685764597</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1606685764597</updated>
++    </task>
++    <task id="LOCAL-00007" summary="refactor even more, basics working">
++      <created>1606687566225</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1606687566225</updated>
++    </task>
++    <option name="localTasksCounter" value="8" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -216,79 +231,109 @@
+     <MESSAGE value="Added room class, room drawing logic, todos" />
+     <MESSAGE value="Added random line for clarity" />
+     <MESSAGE value="add libs" />
+-    <option name="LAST_COMMIT_MESSAGE" value="add libs" />
++    <MESSAGE value="fill in main loop in Engine" />
++    <MESSAGE value="refactor some more" />
++    <MESSAGE value="refactor even more, basics working" />
++    <option name="LAST_COMMIT_MESSAGE" value="refactor even more, basics working" />
+   </component>
+   <component name="WindowStateProjectService">
++    <state x="768" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606685098954">
++      <screen x="0" y="0" width="1920" height="1040" />
++    </state>
++    <state x="768" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606685098954" />
++    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1606430398866">
++      <screen x="0" y="0" width="1920" height="1040" />
++    </state>
++    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606430398866" />
+     <state x="1106" y="265" key="FileChooserDialogImpl" timestamp="1605489009625">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+     <state x="1106" y="265" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605489009625" />
+-    <state width="720" height="230" key="GridCell.Tab.0.bottom" timestamp="1606384056455">
+-      <screen x="0" y="0" width="1440" height="900" />
++    <state width="1166" height="282" key="GridCell.Tab.0.bottom" timestamp="1606701073929">
++      <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+     <state width="720" height="230" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606384056455" />
+-    <state width="1137" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605494792524" />
+-    <state width="720" height="230" key="GridCell.Tab.0.center" timestamp="1606384056454">
+-      <screen x="0" y="0" width="1440" height="900" />
++    <state width="1166" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606701073929" />
++    <state width="1166" height="282" key="GridCell.Tab.0.center" timestamp="1606701073928">
++      <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+     <state width="720" height="230" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1606384056454" />
+-    <state width="1137" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605494792524" />
+-    <state width="720" height="230" key="GridCell.Tab.0.left" timestamp="1606384056453">
+-      <screen x="0" y="0" width="1440" height="900" />
++    <state width="1166" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606701073928" />
++    <state width="1166" height="282" key="GridCell.Tab.0.left" timestamp="1606701073928">
++      <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+     <state width="720" height="230" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1606384056453" />
+-    <state width="1137" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605494792524" />
+-    <state width="720" height="230" key="GridCell.Tab.0.right" timestamp="1606384056454">
+-      <screen x="0" y="0" width="1440" height="900" />
++    <state width="1166" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606701073928" />
++    <state width="1166" height="282" key="GridCell.Tab.0.right" timestamp="1606701073928">
++      <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+     <state width="720" height="230" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1606384056454" />
+-    <state width="1137" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605494792524" />
+-    <state width="1108" height="347" key="GridCell.Tab.1.bottom" timestamp="1605317133850">
++    <state width="1166" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606701073928" />
++    <state width="1166" height="347" key="GridCell.Tab.1.bottom" timestamp="1606687240032">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1108" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605317133850" />
+-    <state width="1108" height="347" key="GridCell.Tab.1.center" timestamp="1605317133850">
++    <state width="1166" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606687240032" />
++    <state width="1166" height="347" key="GridCell.Tab.1.center" timestamp="1606687240032">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1108" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605317133850" />
+-    <state width="1108" height="347" key="GridCell.Tab.1.left" timestamp="1605317133850">
++    <state width="1166" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606687240032" />
++    <state width="1166" height="347" key="GridCell.Tab.1.left" timestamp="1606687240032">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1108" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605317133850" />
+-    <state width="1108" height="347" key="GridCell.Tab.1.right" timestamp="1605317133850">
++    <state width="1166" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606687240032" />
++    <state width="1166" height="347" key="GridCell.Tab.1.right" timestamp="1606687240032">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1108" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605317133850" />
+-    <state width="1108" height="347" key="GridCell.Tab.2.bottom" timestamp="1605317133850">
++    <state width="1166" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606687240032" />
++    <state width="1166" height="347" key="GridCell.Tab.2.bottom" timestamp="1606687240032">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1108" height="347" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605317133850" />
+-    <state width="1108" height="347" key="GridCell.Tab.2.center" timestamp="1605317133850">
++    <state width="1166" height="347" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606687240032" />
++    <state width="1166" height="347" key="GridCell.Tab.2.center" timestamp="1606687240032">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1108" height="347" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605317133850" />
+-    <state width="1108" height="347" key="GridCell.Tab.2.left" timestamp="1605317133850">
++    <state width="1166" height="347" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606687240032" />
++    <state width="1166" height="347" key="GridCell.Tab.2.left" timestamp="1606687240032">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1108" height="347" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605317133850" />
+-    <state width="1108" height="347" key="GridCell.Tab.2.right" timestamp="1605317133850">
++    <state width="1166" height="347" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606687240032" />
++    <state width="1166" height="347" key="GridCell.Tab.2.right" timestamp="1606687240032">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1108" height="347" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605317133850" />
++    <state width="1166" height="347" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606687240032" />
+     <state x="880" y="98" key="SettingsEditor" timestamp="1605489411911">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+     <state x="880" y="98" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605489411911" />
+-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605489244587">
++    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606687570083">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605489244587" />
++    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606687570083" />
++    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606709186353">
++      <screen x="0" y="0" width="1920" height="1040" />
++    </state>
++    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606709186353" />
+     <state x="1175" y="0" width="265" height="900" key="dock-window-1" timestamp="1606379231191">
+       <screen x="0" y="25" width="1440" height="813" />
+     </state>
+     <state x="1055" y="0" width="385" height="900" key="dock-window-1/0.0.1440.900@0.0.1440.900" timestamp="1606376887169" />
+     <state x="754" y="0" width="686" height="900" key="dock-window-1/0.25.1440.809@0.25.1440.809" timestamp="1606377228243" />
+     <state x="1175" y="0" width="265" height="900" key="dock-window-1/0.25.1440.813@0.25.1440.813" timestamp="1606379231191" />
++    <state x="977" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1606685405507">
++      <screen x="0" y="0" width="1920" height="1040" />
++    </state>
++    <state x="977" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606685405507" />
++  </component>
++  <component name="XDebuggerManager">
++    <breakpoint-manager>
++      <breakpoints>
++        <line-breakpoint enabled="true" type="java-line">
++          <url>file://$PROJECT_DIR$/byow/Core/Engine.java</url>
++          <line>36</line>
++          <option name="timeStamp" value="1" />
++        </line-breakpoint>
++      </breakpoints>
++    </breakpoint-manager>
+   </component>
+   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+     <SUITE FILE_PATH="coverage/fa20_proj3_g472$MemoryGame.ic" NAME="MemoryGame Coverage Results" MODIFIED="1606366026661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+Index: out/production/proj3/.idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"BranchesTreeState\">\r\n    <expand>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n    </expand>\r\n    <select />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"8bfb57f1-1b18-44c5-acea-c99bcbf91290\" name=\"Default Changelist\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/byow/Core/Position.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/byow/Core/Engine.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/byow/Core/Engine.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/byow/Core/MapGeneratorTest.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/byow/Core/MapGeneratorTest.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/out/production/proj3/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/out/production/proj3/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/out/production/proj3/byow/Core/Engine.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/out/production/proj3/byow/Core/Engine.class\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/out/production/proj3/byow/Core/MapGenerator$1.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/out/production/proj3/byow/Core/MapGenerator$1.class\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/out/production/proj3/byow/Core/MapGenerator.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/out/production/proj3/byow/Core/MapGenerator.class\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/out/production/proj3/byow/Core/MapGeneratorTest.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/out/production/proj3/byow/Core/MapGeneratorTest.class\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/out/production/proj3/byow/Core/Room.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/out/production/proj3/byow/Core/Room.class\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/out/production/proj3/byow/Core/UnionFind.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/out/production/proj3/byow/Core/UnionFind.class\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Interface\" />\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1kFTlRW1uYJZQgBQ4JgDsmoQ2T3\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"ASKED_ADD_EXTERNAL_FILES\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"project.structure.last.edited\" value=\"Libraries\" />\r\n    <property name=\"project.structure.proportion\" value=\"0.15\" />\r\n    <property name=\"project.structure.side.proportion\" value=\"0.2\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"project.propVCSSupport.Mappings\" />\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Application.Main\">\r\n    <configuration name=\"BoringWorldDemo\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"byow.lab12.BoringWorldDemo\" />\r\n      <module name=\"proj3\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"byow.lab12.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Engine\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"byow.Core.Engine\" />\r\n      <module name=\"proj3\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"byow.Core.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Main\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"byow.Core.Main\" />\r\n      <module name=\"proj3\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"byow.Core.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"MapGeneratorTest\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"byow.Core.MapGeneratorTest\" />\r\n      <module name=\"proj3\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"byow.Core.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"MemoryGame\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"byow.lab13.MemoryGame\" />\r\n      <module name=\"proj3\" />\r\n      <option name=\"PROGRAM_PARAMETERS\" value=\"12345\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"byow.lab13.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration default=\"true\" type=\"JUnit\" factoryName=\"JUnit\">\r\n      <useClassPathOnly />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"\" />\r\n      <option name=\"METHOD_NAME\" value=\"\" />\r\n      <option name=\"TEST_OBJECT\" value=\"class\" />\r\n      <option name=\"VM_PARAMETERS\" value=\"-XX:+ShowCodeDetailsInExceptionMessages\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.Main\" />\r\n        <item itemvalue=\"Application.Engine\" />\r\n        <item itemvalue=\"Application.MemoryGame\" />\r\n        <item itemvalue=\"Application.MapGeneratorTest\" />\r\n        <item itemvalue=\"Application.BoringWorldDemo\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"8bfb57f1-1b18-44c5-acea-c99bcbf91290\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1605295491295</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1605295491295</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"lab12\">\r\n      <created>1605316869639</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1605316869639</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Added room class, room drawing logic, todos\">\r\n      <created>1605488566508</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1605488566508</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Added random line for clarity\">\r\n      <created>1605488668317</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1605488668317</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"add libs\">\r\n      <created>1605489239204</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1605489239204</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"5\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\r\n    <ignored-roots>\r\n      <path value=\"$PROJECT_DIR$/..\" />\r\n    </ignored-roots>\r\n    <MESSAGE value=\"lab12\" />\r\n    <MESSAGE value=\"Added room class, room drawing logic, todos\" />\r\n    <MESSAGE value=\"Added random line for clarity\" />\r\n    <MESSAGE value=\"add libs\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"add libs\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"1106\" y=\"265\" key=\"FileChooserDialogImpl\" timestamp=\"1605489009625\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"1106\" y=\"265\" key=\"FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605489009625\" />\r\n    <state width=\"1398\" height=\"238\" key=\"GridCell.Tab.0.bottom\" timestamp=\"1606373520490\">\r\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\r\n    </state>\r\n    <state width=\"1398\" height=\"238\" key=\"GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900\" timestamp=\"1606373520490\" />\r\n    <state width=\"1137\" height=\"282\" key=\"GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605494792524\" />\r\n    <state width=\"1398\" height=\"238\" key=\"GridCell.Tab.0.center\" timestamp=\"1606373520489\">\r\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\r\n    </state>\r\n    <state width=\"1398\" height=\"238\" key=\"GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900\" timestamp=\"1606373520489\" />\r\n    <state width=\"1137\" height=\"282\" key=\"GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605494792524\" />\r\n    <state width=\"1398\" height=\"238\" key=\"GridCell.Tab.0.left\" timestamp=\"1606373520488\">\r\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\r\n    </state>\r\n    <state width=\"1398\" height=\"238\" key=\"GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900\" timestamp=\"1606373520488\" />\r\n    <state width=\"1137\" height=\"282\" key=\"GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605494792524\" />\r\n    <state width=\"1398\" height=\"238\" key=\"GridCell.Tab.0.right\" timestamp=\"1606373520489\">\r\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\r\n    </state>\r\n    <state width=\"1398\" height=\"238\" key=\"GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900\" timestamp=\"1606373520489\" />\r\n    <state width=\"1137\" height=\"282\" key=\"GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605494792524\" />\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.1.bottom\" timestamp=\"1605317133850\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605317133850\" />\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.1.center\" timestamp=\"1605317133850\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605317133850\" />\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.1.left\" timestamp=\"1605317133850\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605317133850\" />\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.1.right\" timestamp=\"1605317133850\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605317133850\" />\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.2.bottom\" timestamp=\"1605317133850\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605317133850\" />\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.2.center\" timestamp=\"1605317133850\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605317133850\" />\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.2.left\" timestamp=\"1605317133850\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605317133850\" />\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.2.right\" timestamp=\"1605317133850\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605317133850\" />\r\n    <state x=\"880\" y=\"98\" key=\"SettingsEditor\" timestamp=\"1605489411911\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"880\" y=\"98\" key=\"SettingsEditor/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605489411911\" />\r\n    <state x=\"552\" y=\"253\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1605489244587\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"552\" y=\"253\" key=\"Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605489244587\" />\r\n  </component>\r\n  <component name=\"com.intellij.coverage.CoverageDataManagerImpl\">\r\n    <SUITE FILE_PATH=\"coverage/fa20_proj3_g472$MemoryGame.ic\" NAME=\"MemoryGame Coverage Results\" MODIFIED=\"1606366026661\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"idea\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\">\r\n      <FILTER>byow.lab13.*</FILTER>\r\n    </SUITE>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- out/production/proj3/.idea/workspace.xml	(revision ed7e4875db3fba3b4667fd84a877781ce8a3f50b)
++++ out/production/proj3/.idea/workspace.xml	(date 1606709193566)
+@@ -23,6 +23,7 @@
+       <change afterPath="$PROJECT_DIR$/byow/Core/Position.java" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/byow/Core/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/byow/Core/Engine.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/byow/Core/MapGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/byow/Core/MapGenerator.java" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/byow/Core/MapGeneratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/byow/Core/MapGeneratorTest.java" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/out/production/proj3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj3/.idea/workspace.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/out/production/proj3/byow/Core/Engine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj3/byow/Core/Engine.class" afterDir="false" />
+@@ -67,12 +68,12 @@
+     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+   </component>
+   <component name="RunManager" selected="Application.Main">
+-    <configuration name="BoringWorldDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="byow.lab12.BoringWorldDemo" />
++    <configuration name="DemoInputSource" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="byow.InputDemo.DemoInputSource" />
+       <module name="proj3" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="byow.lab12.*" />
++          <option name="PATTERN" value="byow.InputDemo.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+@@ -147,10 +148,10 @@
+     <recent_temporary>
+       <list>
+         <item itemvalue="Application.Main" />
++        <item itemvalue="Application.DemoInputSource" />
+         <item itemvalue="Application.Engine" />
+         <item itemvalue="Application.MemoryGame" />
+         <item itemvalue="Application.MapGeneratorTest" />
+-        <item itemvalue="Application.BoringWorldDemo" />
+       </list>
+     </recent_temporary>
+   </component>
+@@ -222,25 +223,25 @@
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+     <state x="1106" y="265" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605489009625" />
+-    <state width="1398" height="238" key="GridCell.Tab.0.bottom" timestamp="1606373520490">
++    <state width="720" height="230" key="GridCell.Tab.0.bottom" timestamp="1606384056455">
+       <screen x="0" y="0" width="1440" height="900" />
+     </state>
+-    <state width="1398" height="238" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606373520490" />
++    <state width="720" height="230" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606384056455" />
+     <state width="1137" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605494792524" />
+-    <state width="1398" height="238" key="GridCell.Tab.0.center" timestamp="1606373520489">
++    <state width="720" height="230" key="GridCell.Tab.0.center" timestamp="1606384056454">
+       <screen x="0" y="0" width="1440" height="900" />
+     </state>
+-    <state width="1398" height="238" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1606373520489" />
++    <state width="720" height="230" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1606384056454" />
+     <state width="1137" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605494792524" />
+-    <state width="1398" height="238" key="GridCell.Tab.0.left" timestamp="1606373520488">
++    <state width="720" height="230" key="GridCell.Tab.0.left" timestamp="1606384056453">
+       <screen x="0" y="0" width="1440" height="900" />
+     </state>
+-    <state width="1398" height="238" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1606373520488" />
++    <state width="720" height="230" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1606384056453" />
+     <state width="1137" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605494792524" />
+-    <state width="1398" height="238" key="GridCell.Tab.0.right" timestamp="1606373520489">
++    <state width="720" height="230" key="GridCell.Tab.0.right" timestamp="1606384056454">
+       <screen x="0" y="0" width="1440" height="900" />
+     </state>
+-    <state width="1398" height="238" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1606373520489" />
++    <state width="720" height="230" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1606384056454" />
+     <state width="1137" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605494792524" />
+     <state width="1108" height="347" key="GridCell.Tab.1.bottom" timestamp="1605317133850">
+       <screen x="0" y="0" width="1920" height="1040" />
+@@ -282,6 +283,12 @@
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605489244587" />
++    <state x="1175" y="0" width="265" height="900" key="dock-window-1" timestamp="1606379231191">
++      <screen x="0" y="25" width="1440" height="813" />
++    </state>
++    <state x="1055" y="0" width="385" height="900" key="dock-window-1/0.0.1440.900@0.0.1440.900" timestamp="1606376887169" />
++    <state x="754" y="0" width="686" height="900" key="dock-window-1/0.25.1440.809@0.25.1440.809" timestamp="1606377228243" />
++    <state x="1175" y="0" width="265" height="900" key="dock-window-1/0.25.1440.813@0.25.1440.813" timestamp="1606379231191" />
+   </component>
+   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+     <SUITE FILE_PATH="coverage/fa20_proj3_g472$MemoryGame.ic" NAME="MemoryGame Coverage Results" MODIFIED="1606366026661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+diff --git .idea/shelf/Uncommitted_changes_before_Update_at_11_21_2020_11_07_AM__Default_Changelist_.xml .idea/shelf/Uncommitted_changes_before_Update_at_11_21_2020_11_07_AM__Default_Changelist_.xml
+diff --git out/production/proj3/.idea/shelf/Uncommitted_changes_before_Update_at_11_21_2020_11_07_AM__Default_Changelist_.xml out/production/proj3/.idea/shelf/Uncommitted_changes_before_Update_at_11_21_2020_11_07_AM__Default_Changelist_.xml
+diff --git .idea/shelf/Uncommitted_changes_before_Update_at_11_21_2020_12_21_PM__Default_Changelist_.xml .idea/shelf/Uncommitted_changes_before_Update_at_11_21_2020_12_21_PM__Default_Changelist_.xml
+diff --git .idea/shelf/Uncommitted_changes_before_Update_at_11_21_2020_12_16_PM__Default_Changelist_.xml .idea/shelf/Uncommitted_changes_before_Update_at_11_21_2020_12_16_PM__Default_Changelist_.xml

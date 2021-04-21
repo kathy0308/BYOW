@@ -1,0 +1,35 @@
+Index: byow/Core/MapGenerator.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package byow.Core;\r\n\r\nimport byow.TileEngine.TERenderer;\r\nimport byow.TileEngine.TETile;\r\nimport byow.TileEngine.Tileset;\r\n\r\nimport java.util.Random;\r\n\r\npublic class MapGenerator {\r\n    private static final int WIDTH = 60;\r\n    private static final int HEIGHT = 30;\r\n\r\n    private long seed;\r\n\r\n    public MapGenerator(long s) {\r\n        seed = s;\r\n    }\r\n\r\n    public TETile[][] generateMap() {\r\n        // initialize the tile rendering engine with a window of size WIDTH x HEIGHT\r\n        TERenderer ter = new TERenderer();\r\n        ter.initialize(WIDTH, HEIGHT);\r\n\r\n        // initialize tiles\r\n        TETile[][] world = new TETile[WIDTH][HEIGHT];\r\n        for (int x = 0; x < WIDTH; x += 1) {\r\n            for (int y = 0; y < HEIGHT; y += 1) {\r\n                world[x][y] = Tileset.NOTHING;\r\n            }\r\n        }\r\n        Random r = new Random(seed);\r\n\r\n        //Rooms\r\n        int numRooms = 15 + r.nextInt(6);\r\n        for (int i = 0; i < numRooms; i++) {\r\n            //Generate random point in map\r\n            int x = r.nextInt(WIDTH - 3);\r\n            int y = r.nextInt(HEIGHT - 3);\r\n\r\n            //random size Hallways\r\n            int h = Math.min(HEIGHT - y, 5 + r.nextInt(8));\r\n            int w = Math.min(WIDTH - x, 3 + r.nextInt(8));\r\n            Room room = new Room(h, w);\r\n\r\n            drawRoom(x, y, room, world);\r\n        }\r\n\r\n        //VerticalHallways\r\n        int numVerticalHallways = 10 + r.nextInt(6);\r\n        for (int i = 0; i < numVerticalHallways; i++) {\r\n            //Generate random point in map\r\n            int x = r.nextInt(WIDTH - 3);\r\n            int y = r.nextInt(HEIGHT - 3);\r\n\r\n            //random size Vertival Hallway\r\n            int h = Math.min(HEIGHT - y, 5 + r.nextInt(10));\r\n            int w = Math.min(WIDTH - x, 5 + r.nextInt(1));\r\n            Room room = new Room(h, w);\r\n\r\n            drawRoom(x, y, room, world);\r\n        }\r\n\r\n        //HorizentalHallways\r\n        int numHorizentalHallways = 10 + r.nextInt(6);\r\n        for (int i = 0; i < numHorizentalHallways; i++) {\r\n            //Generate random point in map\r\n            int x = r.nextInt(WIDTH - 3);\r\n            int y = r.nextInt(HEIGHT - 3);\r\n\r\n            //random size Horizental Hallway\r\n            int h = Math.min(HEIGHT - y, 5 + r.nextInt(1));\r\n            int w = Math.min(WIDTH - x, 5 + r.nextInt(10));\r\n            Room room = new Room(h, w);\r\n\r\n            drawRoom(x, y, room, world);\r\n\r\n        //\r\n        //TODO: Draw Conrner methods.\r\n\r\n        }\r\n        return world;\r\n    }\r\n\r\n    private static void drawRoom(int x, int y, Room r, TETile[][] world) {\r\n        int width = r.getWidth();\r\n        int height = r.getHeight();\r\n        //draw walls\r\n        //bottom wall\r\n        drawLineRight(x, y, width,world, Tileset.WALL);\r\n        //top wall\r\n        drawLineRight(x, y + height - 1, width, world, Tileset.WALL);\r\n        //left wall\r\n        drawLineUp(x, y + 1, height -2, world, Tileset.WALL);\r\n        //right wall\r\n        drawLineUp(x + width - 1, y + 1, height - 2, world, Tileset.WALL);\r\n        //draw floor\r\n        for (int i = 0; i < height - 2; i++) {\r\n            drawLineRight(x + 1, y + 1 + i, width - 2, world, Tileset.FLOOR);\r\n        }\r\n        //TODO: Refactor to make rooms not write walls when overlapping\r\n    }\r\n\r\n    private static void drawLineRight(int x, int y, int l, TETile[][] world, TETile tile) {\r\n        for (int i = 0; i < l; i++) {\r\n            drawPixel(x + i, y, world, tile);\r\n        }\r\n    }\r\n\r\n    private static void drawLineUp(int x, int y, int l, TETile[][] world, TETile tile) {\r\n        for (int i = 0; i < l; i++) {\r\n            drawPixel(x, y + i, world, tile);\r\n        }\r\n    }\r\n\r\n    private static void drawPixel(int x, int y, TETile[][] world, TETile tile) {\r\n        world[x][y] = tile;\r\n    }\r\n\r\n\r\n}\r\n\r\n// connect Room and Hallway.
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- byow/Core/MapGenerator.java	(revision 59453d7e32cf1a1d961d7f852476e52eba3780d6)
++++ byow/Core/MapGenerator.java	(date 1605990058147)
+@@ -61,13 +61,13 @@
+         }
+ 
+         //HorizentalHallways
+-        int numHorizentalHallways = 10 + r.nextInt(6);
+-        for (int i = 0; i < numHorizentalHallways; i++) {
++        int numHorizontalHallways = 10 + r.nextInt(6);
++        for (int i = 0; i < numHorizontalHallways; i++) {
+             //Generate random point in map
+             int x = r.nextInt(WIDTH - 3);
+             int y = r.nextInt(HEIGHT - 3);
+ 
+-            //random size Horizental Hallway
++            //random size Horizontal Hallway
+             int h = Math.min(HEIGHT - y, 5 + r.nextInt(1));
+             int w = Math.min(WIDTH - x, 5 + r.nextInt(10));
+             Room room = new Room(h, w);
+@@ -86,7 +86,7 @@
+         int height = r.getHeight();
+         //draw walls
+         //bottom wall
+-        drawLineRight(x, y, width,world, Tileset.WALL);
++        drawLineRight(x, y, width, world, Tileset.WALL);
+         //top wall
+         drawLineRight(x, y + height - 1, width, world, Tileset.WALL);
+         //left wall

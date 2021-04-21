@@ -1,0 +1,540 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"BranchesTreeState\">\r\n    <expand>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n    </expand>\r\n    <select />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"8bfb57f1-1b18-44c5-acea-c99bcbf91290\" name=\"Default Changelist\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Interface\" />\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1kFTlRW1uYJZQgBQ4JgDsmoQ2T3\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"ASKED_ADD_EXTERNAL_FILES\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"project.structure.last.edited\" value=\"Libraries\" />\r\n    <property name=\"project.structure.proportion\" value=\"0.15\" />\r\n    <property name=\"project.structure.side.proportion\" value=\"0.2\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"project.propVCSSupport.Mappings\" />\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Application.MapGeneratorTest\">\r\n    <configuration name=\"BoringWorldDemo\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"byow.lab12.BoringWorldDemo\" />\r\n      <module name=\"proj3\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"byow.lab12.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"HexWorld\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"byow.lab12.HexWorld\" />\r\n      <module name=\"proj3\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"byow.lab12.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"MapGenerator\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"byow.Core.MapGenerator\" />\r\n      <module name=\"proj3\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"byow.Core.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"MapGeneratorTest\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"byow.Core.MapGeneratorTest\" />\r\n      <module name=\"proj3\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"byow.Core.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"MemoryGame\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"byow.lab13.MemoryGame\" />\r\n      <module name=\"proj3\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"byow.lab13.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration default=\"true\" type=\"JUnit\" factoryName=\"JUnit\">\r\n      <useClassPathOnly />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"\" />\r\n      <option name=\"METHOD_NAME\" value=\"\" />\r\n      <option name=\"TEST_OBJECT\" value=\"class\" />\r\n      <option name=\"VM_PARAMETERS\" value=\"-XX:+ShowCodeDetailsInExceptionMessages\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.MapGeneratorTest\" />\r\n        <item itemvalue=\"Application.MemoryGame\" />\r\n        <item itemvalue=\"Application.BoringWorldDemo\" />\r\n        <item itemvalue=\"Application.MapGenerator\" />\r\n        <item itemvalue=\"Application.HexWorld\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"8bfb57f1-1b18-44c5-acea-c99bcbf91290\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1605295491295</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1605295491295</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"lab12\">\r\n      <created>1605316869639</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1605316869639</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Added room class, room drawing logic, todos\">\r\n      <created>1605488566508</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1605488566508</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Added random line for clarity\">\r\n      <created>1605488668317</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1605488668317</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"add libs\">\r\n      <created>1605489239204</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1605489239204</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"5\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\r\n    <ignored-roots>\r\n      <path value=\"$PROJECT_DIR$/..\" />\r\n    </ignored-roots>\r\n    <MESSAGE value=\"lab12\" />\r\n    <MESSAGE value=\"Added room class, room drawing logic, todos\" />\r\n    <MESSAGE value=\"Added random line for clarity\" />\r\n    <MESSAGE value=\"add libs\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"add libs\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"1106\" y=\"265\" key=\"FileChooserDialogImpl\" timestamp=\"1605489009625\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"1106\" y=\"265\" key=\"FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605489009625\" />\r\n    <state width=\"1398\" height=\"238\" key=\"GridCell.Tab.0.bottom\" timestamp=\"1605903631593\">\r\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\r\n    </state>\r\n    <state width=\"1398\" height=\"238\" key=\"GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900\" timestamp=\"1605903631593\" />\r\n    <state width=\"1137\" height=\"282\" key=\"GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605494792524\" />\r\n    <state width=\"1398\" height=\"238\" key=\"GridCell.Tab.0.center\" timestamp=\"1605903631591\">\r\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\r\n    </state>\r\n    <state width=\"1398\" height=\"238\" key=\"GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900\" timestamp=\"1605903631591\" />\r\n    <state width=\"1137\" height=\"282\" key=\"GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605494792524\" />\r\n    <state width=\"1398\" height=\"238\" key=\"GridCell.Tab.0.left\" timestamp=\"1605903631587\">\r\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\r\n    </state>\r\n    <state width=\"1398\" height=\"238\" key=\"GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900\" timestamp=\"1605903631587\" />\r\n    <state width=\"1137\" height=\"282\" key=\"GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605494792524\" />\r\n    <state width=\"1398\" height=\"238\" key=\"GridCell.Tab.0.right\" timestamp=\"1605903631592\">\r\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\r\n    </state>\r\n    <state width=\"1398\" height=\"238\" key=\"GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900\" timestamp=\"1605903631592\" />\r\n    <state width=\"1137\" height=\"282\" key=\"GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605494792524\" />\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.1.bottom\" timestamp=\"1605317133850\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605317133850\" />\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.1.center\" timestamp=\"1605317133850\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605317133850\" />\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.1.left\" timestamp=\"1605317133850\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605317133850\" />\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.1.right\" timestamp=\"1605317133850\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605317133850\" />\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.2.bottom\" timestamp=\"1605317133850\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605317133850\" />\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.2.center\" timestamp=\"1605317133850\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605317133850\" />\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.2.left\" timestamp=\"1605317133850\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605317133850\" />\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.2.right\" timestamp=\"1605317133850\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605317133850\" />\r\n    <state x=\"880\" y=\"98\" key=\"SettingsEditor\" timestamp=\"1605489411911\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"880\" y=\"98\" key=\"SettingsEditor/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605489411911\" />\r\n    <state x=\"552\" y=\"253\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1605489244587\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"552\" y=\"253\" key=\"Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605489244587\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision a691ae6344254e1177e8b5c5e743e12682faff23)
++++ .idea/workspace.xml	(date 1606081809041)
+@@ -19,7 +19,18 @@
+     <select />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="8bfb57f1-1b18-44c5-acea-c99bcbf91290" name="Default Changelist" comment="" />
++    <list default="true" id="8bfb57f1-1b18-44c5-acea-c99bcbf91290" name="Default Changelist" comment="Hallway connection methods, remove unused code">
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_21_2020_11_07_AM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_21_2020_11_07_AM__Default_Changelist_.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_21_2020_12_16_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_21_2020_12_16_PM__Default_Changelist_.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_21_2020_12_21_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_21_2020_12_21_PM__Default_Changelist_.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/byow/Core/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/byow/Core/Engine.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/out/production/proj3/.idea/shelf/Uncommitted_changes_before_Update_at_11_21_2020_11_07_AM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj3/.idea/shelf/Uncommitted_changes_before_Update_at_11_21_2020_11_07_AM__Default_Changelist_.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/out/production/proj3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj3/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/out/production/proj3/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj3/README.md" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/out/production/proj3/byow/Core/Engine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj3/byow/Core/Engine.class" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/out/production/proj3/byow/Core/MapGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj3/byow/Core/MapGenerator.class" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -35,6 +46,7 @@
+   </component>
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++    <option name="UPDATE_TYPE" value="REBASE" />
+   </component>
+   <component name="ProjectId" id="1kFTlRW1uYJZQgBQ4JgDsmoQ2T3" />
+   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+@@ -48,13 +60,18 @@
+     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
++    <property name="last_opened_file_path" value="$PROJECT_DIR$/byow/Core" />
+     <property name="project.structure.last.edited" value="Libraries" />
+     <property name="project.structure.proportion" value="0.15" />
+     <property name="project.structure.side.proportion" value="0.2" />
+     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+   </component>
+-  <component name="RunManager" selected="Application.MapGeneratorTest">
++  <component name="RecentsManager">
++    <key name="CopyFile.RECENT_KEYS">
++      <recent name="C:\Users\jpark\Documents\CS61B\fa20-proj3-g472\byow\Core" />
++    </key>
++  </component>
++  <component name="RunManager" selected="Application.Main">
+     <configuration name="BoringWorldDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+       <option name="MAIN_CLASS_NAME" value="byow.lab12.BoringWorldDemo" />
+       <module name="proj3" />
+@@ -68,12 +85,13 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="HexWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="byow.lab12.HexWorld" />
++    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="byow.Core.Main" />
+       <module name="proj3" />
++      <option name="PROGRAM_PARAMETERS" value="N222S" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="byow.lab12.*" />
++          <option name="PATTERN" value="byow.Core.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+@@ -131,13 +149,20 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
++    <list>
++      <item itemvalue="Application.BoringWorldDemo" />
++      <item itemvalue="Application.Main" />
++      <item itemvalue="Application.MapGenerator" />
++      <item itemvalue="Application.MapGeneratorTest" />
++      <item itemvalue="Application.MemoryGame" />
++    </list>
+     <recent_temporary>
+       <list>
++        <item itemvalue="Application.Main" />
+         <item itemvalue="Application.MapGeneratorTest" />
+         <item itemvalue="Application.MemoryGame" />
+         <item itemvalue="Application.BoringWorldDemo" />
+         <item itemvalue="Application.MapGenerator" />
+-        <item itemvalue="Application.HexWorld" />
+       </list>
+     </recent_temporary>
+   </component>
+@@ -178,7 +203,49 @@
+       <option name="project" value="LOCAL" />
+       <updated>1605489239204</updated>
+     </task>
+-    <option name="localTasksCounter" value="5" />
++    <task id="LOCAL-00005" summary="commit so I can pull">
++      <created>1605989976338</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1605989976338</updated>
++    </task>
++    <task id="LOCAL-00006" summary="commit so I can pull">
++      <created>1605990174773</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1605990174773</updated>
++    </task>
++    <task id="LOCAL-00007" summary="spelling">
++      <created>1605990264840</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1605990264840</updated>
++    </task>
++    <task id="LOCAL-00008" summary="reverse logic in isoverlap">
++      <created>1605990759289</created>
++      <option name="number" value="00008" />
++      <option name="presentableId" value="LOCAL-00008" />
++      <option name="project" value="LOCAL" />
++      <updated>1605990759289</updated>
++    </task>
++    <task id="LOCAL-00009" summary="add some hallway logic, sorry for the messy code">
++      <created>1606025633800</created>
++      <option name="number" value="00009" />
++      <option name="presentableId" value="LOCAL-00009" />
++      <option name="project" value="LOCAL" />
++      <updated>1606025633800</updated>
++    </task>
++    <task id="LOCAL-00010" summary="Hallway connection methods, remove unused code">
++      <created>1606077407858</created>
++      <option name="number" value="00010" />
++      <option name="presentableId" value="LOCAL-00010" />
++      <option name="project" value="LOCAL" />
++      <updated>1606077407858</updated>
++    </task>
++    <option name="localTasksCounter" value="11" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -202,72 +269,107 @@
+     <MESSAGE value="Added room class, room drawing logic, todos" />
+     <MESSAGE value="Added random line for clarity" />
+     <MESSAGE value="add libs" />
+-    <option name="LAST_COMMIT_MESSAGE" value="add libs" />
++    <MESSAGE value="commit so I can pull" />
++    <MESSAGE value="spelling" />
++    <MESSAGE value="reverse logic in isoverlap" />
++    <MESSAGE value="add some hallway logic, sorry for the messy code" />
++    <MESSAGE value="Hallway connection methods, remove unused code" />
++    <option name="LAST_COMMIT_MESSAGE" value="Hallway connection methods, remove unused code" />
+   </component>
+   <component name="WindowStateProjectService">
++    <state x="806" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606079043790">
++      <screen x="0" y="0" width="1920" height="1040" />
++    </state>
++    <state x="806" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606079043790" />
++    <state x="1135" y="239" key="#com.intellij.ide.util.MemberChooser" timestamp="1605992579653">
++      <screen x="0" y="0" width="1920" height="1040" />
++    </state>
++    <state x="1135" y="239" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1605992579653" />
++    <state x="1111" y="47" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1605992654504">
++      <screen x="0" y="0" width="1920" height="1040" />
++    </state>
++    <state x="1111" y="47" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605992654504" />
+     <state x="1106" y="265" key="FileChooserDialogImpl" timestamp="1605489009625">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+     <state x="1106" y="265" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605489009625" />
+-    <state width="1398" height="238" key="GridCell.Tab.0.bottom" timestamp="1605903631593">
+-      <screen x="0" y="0" width="1440" height="900" />
++    <state width="1173" height="178" key="GridCell.Tab.0.bottom" timestamp="1606079066253">
++      <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+     <state width="1398" height="238" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605903631593" />
+-    <state width="1137" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605494792524" />
+-    <state width="1398" height="238" key="GridCell.Tab.0.center" timestamp="1605903631591">
+-      <screen x="0" y="0" width="1440" height="900" />
++    <state width="1173" height="178" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606079066253" />
++    <state width="1173" height="178" key="GridCell.Tab.0.center" timestamp="1606079066253">
++      <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+     <state width="1398" height="238" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1605903631591" />
+-    <state width="1137" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605494792524" />
+-    <state width="1398" height="238" key="GridCell.Tab.0.left" timestamp="1605903631587">
+-      <screen x="0" y="0" width="1440" height="900" />
++    <state width="1173" height="178" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606079066253" />
++    <state width="1173" height="178" key="GridCell.Tab.0.left" timestamp="1606079066253">
++      <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+     <state width="1398" height="238" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1605903631587" />
+-    <state width="1137" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605494792524" />
+-    <state width="1398" height="238" key="GridCell.Tab.0.right" timestamp="1605903631592">
+-      <screen x="0" y="0" width="1440" height="900" />
++    <state width="1173" height="178" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606079066253" />
++    <state width="1173" height="178" key="GridCell.Tab.0.right" timestamp="1606079066253">
++      <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+     <state width="1398" height="238" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1605903631592" />
+-    <state width="1137" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605494792524" />
+-    <state width="1108" height="347" key="GridCell.Tab.1.bottom" timestamp="1605317133850">
++    <state width="1173" height="178" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606079066253" />
++    <state width="1173" height="428" key="GridCell.Tab.1.bottom" timestamp="1606076366978">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1108" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605317133850" />
+-    <state width="1108" height="347" key="GridCell.Tab.1.center" timestamp="1605317133850">
++    <state width="1173" height="428" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606076366978" />
++    <state width="1173" height="428" key="GridCell.Tab.1.center" timestamp="1606076366978">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1108" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605317133850" />
+-    <state width="1108" height="347" key="GridCell.Tab.1.left" timestamp="1605317133850">
++    <state width="1173" height="428" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606076366978" />
++    <state width="1173" height="428" key="GridCell.Tab.1.left" timestamp="1606076366978">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1108" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605317133850" />
+-    <state width="1108" height="347" key="GridCell.Tab.1.right" timestamp="1605317133850">
++    <state width="1173" height="428" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606076366978" />
++    <state width="1173" height="428" key="GridCell.Tab.1.right" timestamp="1606076366978">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1108" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605317133850" />
+-    <state width="1108" height="347" key="GridCell.Tab.2.bottom" timestamp="1605317133850">
++    <state width="1173" height="428" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606076366978" />
++    <state width="1173" height="428" key="GridCell.Tab.2.bottom" timestamp="1606076366978">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1108" height="347" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605317133850" />
+-    <state width="1108" height="347" key="GridCell.Tab.2.center" timestamp="1605317133850">
++    <state width="1173" height="428" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606076366978" />
++    <state width="1173" height="428" key="GridCell.Tab.2.center" timestamp="1606076366978">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1108" height="347" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605317133850" />
+-    <state width="1108" height="347" key="GridCell.Tab.2.left" timestamp="1605317133850">
++    <state width="1173" height="428" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606076366978" />
++    <state width="1173" height="428" key="GridCell.Tab.2.left" timestamp="1606076366978">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1108" height="347" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605317133850" />
+-    <state width="1108" height="347" key="GridCell.Tab.2.right" timestamp="1605317133850">
++    <state width="1173" height="428" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606076366978" />
++    <state width="1173" height="428" key="GridCell.Tab.2.right" timestamp="1606076366978">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1108" height="347" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605317133850" />
++    <state width="1173" height="428" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606076366978" />
+     <state x="880" y="98" key="SettingsEditor" timestamp="1605489411911">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+     <state x="880" y="98" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605489411911" />
+-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605489244587">
++    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606077411843">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605489244587" />
++    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606077411843" />
++    <state x="843" y="259" width="934" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1606014529268">
++      <screen x="0" y="0" width="1920" height="1040" />
++    </state>
++    <state x="843" y="259" width="934" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1606014529268" />
++    <state x="1125" y="271" key="refactoring.ChangeSignatureDialog" timestamp="1605992583841">
++      <screen x="0" y="0" width="1920" height="1040" />
++    </state>
++    <state x="1125" y="271" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605992583841" />
++  </component>
++  <component name="XDebuggerManager">
++    <breakpoint-manager>
++      <breakpoints>
++        <breakpoint enabled="true" type="java-exception">
++          <properties class="java.lang.IllegalArgumentException" package="java.lang" />
++          <option name="timeStamp" value="2" />
++        </breakpoint>
++      </breakpoints>
++    </breakpoint-manager>
+   </component>
+ </project>
+\ No newline at end of file
+Index: out/production/proj3/README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># Build Your Own World Design Document\r\n\r\n**Partner 1:**\r\nGyeongmin Lee\r\n\r\n**Partner 2:**\r\nJordan Heinemann\r\n\r\n## Classes and Data Structures\r\nPosition: x axis and y axis to indicate rooms' location\r\n\r\nRoom: define rooms' height and weight, position\r\n\r\nMapGenerator:\r\n1. initialize tile -> \r\n2. initialize rooms and hallways. (number of rooms and hallways are random and each size is also random.\r\n3. Also, we think that hallways as same as room, but it has width=1 or  height =1(We devide as horizental hallways and vertical hallways.)\r\n4. I put \" isOverlap\" , because, room and room cannot be connected each other.\r\n5. I applied that \"isOverlap\" method only when we make rooms. (Hallways can be overlaped and intersected)  \r\n6. Add drawDoor method for each rooms and hallways. (Random door)\r\n7. Make DrawPath method to sConnect (room-room & room-hallway & hallway-hallway)\r\n\r\nMapGeneratorTest: just testing file for MapGenerator\r\n\r\n## Algorithms\r\nWe did not use any specific algorithm yet.\r\n\r\n## Persistence\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- out/production/proj3/README.md	(revision a691ae6344254e1177e8b5c5e743e12682faff23)
++++ out/production/proj3/README.md	(date 1605990184617)
+@@ -12,7 +12,7 @@
+ Room: define rooms' height and weight, position
+ 
+ MapGenerator:
+-1. initialize tile -> 
++1. initialize tile
+ 2. initialize rooms and hallways. (number of rooms and hallways are random and each size is also random.
+ 3. Also, we think that hallways as same as room, but it has width=1 or  height =1(We devide as horizental hallways and vertical hallways.)
+ 4. I put " isOverlap" , because, room and room cannot be connected each other.
+Index: out/production/proj3/.idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"BranchesTreeState\">\r\n    <expand>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n    </expand>\r\n    <select />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"8bfb57f1-1b18-44c5-acea-c99bcbf91290\" name=\"Default Changelist\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Interface\" />\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1kFTlRW1uYJZQgBQ4JgDsmoQ2T3\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"ASKED_ADD_EXTERNAL_FILES\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"project.structure.last.edited\" value=\"Libraries\" />\r\n    <property name=\"project.structure.proportion\" value=\"0.15\" />\r\n    <property name=\"project.structure.side.proportion\" value=\"0.2\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"project.propVCSSupport.Mappings\" />\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Application.MapGeneratorTest\">\r\n    <configuration name=\"BoringWorldDemo\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"byow.lab12.BoringWorldDemo\" />\r\n      <module name=\"proj3\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"byow.lab12.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"HexWorld\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"byow.lab12.HexWorld\" />\r\n      <module name=\"proj3\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"byow.lab12.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"MapGenerator\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"byow.Core.MapGenerator\" />\r\n      <module name=\"proj3\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"byow.Core.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"MapGeneratorTest\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"byow.Core.MapGeneratorTest\" />\r\n      <module name=\"proj3\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"byow.Core.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"MemoryGame\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"byow.lab13.MemoryGame\" />\r\n      <module name=\"proj3\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"byow.lab13.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration default=\"true\" type=\"JUnit\" factoryName=\"JUnit\">\r\n      <useClassPathOnly />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"\" />\r\n      <option name=\"METHOD_NAME\" value=\"\" />\r\n      <option name=\"TEST_OBJECT\" value=\"class\" />\r\n      <option name=\"VM_PARAMETERS\" value=\"-XX:+ShowCodeDetailsInExceptionMessages\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.MapGeneratorTest\" />\r\n        <item itemvalue=\"Application.MemoryGame\" />\r\n        <item itemvalue=\"Application.BoringWorldDemo\" />\r\n        <item itemvalue=\"Application.MapGenerator\" />\r\n        <item itemvalue=\"Application.HexWorld\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"8bfb57f1-1b18-44c5-acea-c99bcbf91290\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1605295491295</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1605295491295</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"lab12\">\r\n      <created>1605316869639</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1605316869639</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Added room class, room drawing logic, todos\">\r\n      <created>1605488566508</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1605488566508</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Added random line for clarity\">\r\n      <created>1605488668317</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1605488668317</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"add libs\">\r\n      <created>1605489239204</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1605489239204</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"5\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\r\n    <ignored-roots>\r\n      <path value=\"$PROJECT_DIR$/..\" />\r\n    </ignored-roots>\r\n    <MESSAGE value=\"lab12\" />\r\n    <MESSAGE value=\"Added room class, room drawing logic, todos\" />\r\n    <MESSAGE value=\"Added random line for clarity\" />\r\n    <MESSAGE value=\"add libs\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"add libs\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"1106\" y=\"265\" key=\"FileChooserDialogImpl\" timestamp=\"1605489009625\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"1106\" y=\"265\" key=\"FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605489009625\" />\r\n    <state width=\"1398\" height=\"238\" key=\"GridCell.Tab.0.bottom\" timestamp=\"1605897982823\">\r\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\r\n    </state>\r\n    <state width=\"1398\" height=\"238\" key=\"GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900\" timestamp=\"1605897982823\" />\r\n    <state width=\"1137\" height=\"282\" key=\"GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605494792524\" />\r\n    <state width=\"1398\" height=\"238\" key=\"GridCell.Tab.0.center\" timestamp=\"1605897982822\">\r\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\r\n    </state>\r\n    <state width=\"1398\" height=\"238\" key=\"GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900\" timestamp=\"1605897982822\" />\r\n    <state width=\"1137\" height=\"282\" key=\"GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605494792524\" />\r\n    <state width=\"1398\" height=\"238\" key=\"GridCell.Tab.0.left\" timestamp=\"1605897982821\">\r\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\r\n    </state>\r\n    <state width=\"1398\" height=\"238\" key=\"GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900\" timestamp=\"1605897982821\" />\r\n    <state width=\"1137\" height=\"282\" key=\"GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605494792524\" />\r\n    <state width=\"1398\" height=\"238\" key=\"GridCell.Tab.0.right\" timestamp=\"1605897982822\">\r\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\r\n    </state>\r\n    <state width=\"1398\" height=\"238\" key=\"GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900\" timestamp=\"1605897982822\" />\r\n    <state width=\"1137\" height=\"282\" key=\"GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605494792524\" />\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.1.bottom\" timestamp=\"1605317133850\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605317133850\" />\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.1.center\" timestamp=\"1605317133850\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605317133850\" />\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.1.left\" timestamp=\"1605317133850\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605317133850\" />\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.1.right\" timestamp=\"1605317133850\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605317133850\" />\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.2.bottom\" timestamp=\"1605317133850\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605317133850\" />\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.2.center\" timestamp=\"1605317133850\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605317133850\" />\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.2.left\" timestamp=\"1605317133850\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605317133850\" />\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.2.right\" timestamp=\"1605317133850\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1108\" height=\"347\" key=\"GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605317133850\" />\r\n    <state x=\"880\" y=\"98\" key=\"SettingsEditor\" timestamp=\"1605489411911\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"880\" y=\"98\" key=\"SettingsEditor/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605489411911\" />\r\n    <state x=\"552\" y=\"253\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1605489244587\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"552\" y=\"253\" key=\"Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1605489244587\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- out/production/proj3/.idea/workspace.xml	(revision a691ae6344254e1177e8b5c5e743e12682faff23)
++++ out/production/proj3/.idea/workspace.xml	(date 1606025544640)
+@@ -19,8 +19,21 @@
+     <select />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="8bfb57f1-1b18-44c5-acea-c99bcbf91290" name="Default Changelist" comment="">
++    <list default="true" id="8bfb57f1-1b18-44c5-acea-c99bcbf91290" name="Default Changelist" comment="reverse logic in isoverlap">
++      <change afterPath="$PROJECT_DIR$/byow/Core/UnionFind.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_21_2020_11_07_AM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_21_2020_11_07_AM__Default_Changelist_.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_21_2020_12_16_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_21_2020_12_16_PM__Default_Changelist_.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_21_2020_12_21_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_21_2020_12_21_PM__Default_Changelist_.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/byow/Core/MapGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/byow/Core/MapGenerator.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/byow/Core/MapGeneratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/byow/Core/MapGeneratorTest.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/byow/Core/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/byow/Core/Room.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/out/production/proj3/.idea/shelf/Uncommitted_changes_before_Update_at_11_21_2020_11_07_AM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj3/.idea/shelf/Uncommitted_changes_before_Update_at_11_21_2020_11_07_AM__Default_Changelist_.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/out/production/proj3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj3/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/out/production/proj3/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj3/README.md" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/out/production/proj3/byow/Core/MapGenerator.class" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/out/production/proj3/byow/Core/MapGeneratorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj3/byow/Core/MapGeneratorTest.class" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/out/production/proj3/byow/Core/Room.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj3/byow/Core/Room.class" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -37,6 +50,7 @@
+   </component>
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++    <option name="UPDATE_TYPE" value="REBASE" />
+   </component>
+   <component name="ProjectId" id="1kFTlRW1uYJZQgBQ4JgDsmoQ2T3" />
+   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+@@ -50,11 +64,16 @@
+     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
++    <property name="last_opened_file_path" value="$PROJECT_DIR$/byow/Core" />
+     <property name="project.structure.last.edited" value="Libraries" />
+     <property name="project.structure.proportion" value="0.15" />
+     <property name="project.structure.side.proportion" value="0.2" />
+     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
++  </component>
++  <component name="RecentsManager">
++    <key name="CopyFile.RECENT_KEYS">
++      <recent name="C:\Users\jpark\Documents\CS61B\fa20-proj3-g472\byow\Core" />
++    </key>
+   </component>
+   <component name="RunManager" selected="Application.MapGeneratorTest">
+     <configuration name="BoringWorldDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+@@ -180,7 +199,35 @@
+       <option name="project" value="LOCAL" />
+       <updated>1605489239204</updated>
+     </task>
+-    <option name="localTasksCounter" value="5" />
++    <task id="LOCAL-00005" summary="commit so I can pull">
++      <created>1605989976338</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1605989976338</updated>
++    </task>
++    <task id="LOCAL-00006" summary="commit so I can pull">
++      <created>1605990174773</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1605990174773</updated>
++    </task>
++    <task id="LOCAL-00007" summary="spelling">
++      <created>1605990264840</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1605990264840</updated>
++    </task>
++    <task id="LOCAL-00008" summary="reverse logic in isoverlap">
++      <created>1605990759289</created>
++      <option name="number" value="00008" />
++      <option name="presentableId" value="LOCAL-00008" />
++      <option name="project" value="LOCAL" />
++      <updated>1605990759289</updated>
++    </task>
++    <option name="localTasksCounter" value="9" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -204,65 +251,76 @@
+     <MESSAGE value="Added room class, room drawing logic, todos" />
+     <MESSAGE value="Added random line for clarity" />
+     <MESSAGE value="add libs" />
+-    <option name="LAST_COMMIT_MESSAGE" value="add libs" />
++    <MESSAGE value="commit so I can pull" />
++    <MESSAGE value="spelling" />
++    <MESSAGE value="reverse logic in isoverlap" />
++    <option name="LAST_COMMIT_MESSAGE" value="reverse logic in isoverlap" />
+   </component>
+   <component name="WindowStateProjectService">
++    <state x="1135" y="239" key="#com.intellij.ide.util.MemberChooser" timestamp="1605992579653">
++      <screen x="0" y="0" width="1920" height="1040" />
++    </state>
++    <state x="1135" y="239" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1605992579653" />
++    <state x="1111" y="47" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1605992654504">
++      <screen x="0" y="0" width="1920" height="1040" />
++    </state>
++    <state x="1111" y="47" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605992654504" />
+     <state x="1106" y="265" key="FileChooserDialogImpl" timestamp="1605489009625">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+     <state x="1106" y="265" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605489009625" />
+-    <state width="1398" height="238" key="GridCell.Tab.0.bottom" timestamp="1605897982823">
+-      <screen x="0" y="0" width="1440" height="900" />
++    <state width="1173" height="178" key="GridCell.Tab.0.bottom" timestamp="1606025133170">
++      <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1398" height="238" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605897982823" />
+-    <state width="1137" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605494792524" />
+-    <state width="1398" height="238" key="GridCell.Tab.0.center" timestamp="1605897982822">
+-      <screen x="0" y="0" width="1440" height="900" />
++    <state width="1398" height="238" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605903631593" />
++    <state width="1173" height="178" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606025133170" />
++    <state width="1173" height="178" key="GridCell.Tab.0.center" timestamp="1606025133170">
++      <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1398" height="238" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1605897982822" />
+-    <state width="1137" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605494792524" />
+-    <state width="1398" height="238" key="GridCell.Tab.0.left" timestamp="1605897982821">
+-      <screen x="0" y="0" width="1440" height="900" />
++    <state width="1398" height="238" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1605903631591" />
++    <state width="1173" height="178" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606025133170" />
++    <state width="1173" height="178" key="GridCell.Tab.0.left" timestamp="1606025133170">
++      <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1398" height="238" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1605897982821" />
+-    <state width="1137" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605494792524" />
+-    <state width="1398" height="238" key="GridCell.Tab.0.right" timestamp="1605897982822">
+-      <screen x="0" y="0" width="1440" height="900" />
++    <state width="1398" height="238" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1605903631587" />
++    <state width="1173" height="178" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606025133170" />
++    <state width="1173" height="178" key="GridCell.Tab.0.right" timestamp="1606025133170">
++      <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1398" height="238" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1605897982822" />
+-    <state width="1137" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605494792524" />
+-    <state width="1108" height="347" key="GridCell.Tab.1.bottom" timestamp="1605317133850">
++    <state width="1398" height="238" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1605903631592" />
++    <state width="1173" height="178" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606025133170" />
++    <state width="1173" height="347" key="GridCell.Tab.1.bottom" timestamp="1606014722284">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1108" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605317133850" />
+-    <state width="1108" height="347" key="GridCell.Tab.1.center" timestamp="1605317133850">
++    <state width="1173" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606014722284" />
++    <state width="1173" height="347" key="GridCell.Tab.1.center" timestamp="1606014722283">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1108" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605317133850" />
+-    <state width="1108" height="347" key="GridCell.Tab.1.left" timestamp="1605317133850">
++    <state width="1173" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606014722283" />
++    <state width="1173" height="347" key="GridCell.Tab.1.left" timestamp="1606014722283">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1108" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605317133850" />
+-    <state width="1108" height="347" key="GridCell.Tab.1.right" timestamp="1605317133850">
++    <state width="1173" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606014722283" />
++    <state width="1173" height="347" key="GridCell.Tab.1.right" timestamp="1606014722283">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1108" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605317133850" />
+-    <state width="1108" height="347" key="GridCell.Tab.2.bottom" timestamp="1605317133850">
++    <state width="1173" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606014722283" />
++    <state width="1173" height="347" key="GridCell.Tab.2.bottom" timestamp="1606014722284">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1108" height="347" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605317133850" />
+-    <state width="1108" height="347" key="GridCell.Tab.2.center" timestamp="1605317133850">
++    <state width="1173" height="347" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606014722284" />
++    <state width="1173" height="347" key="GridCell.Tab.2.center" timestamp="1606014722284">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1108" height="347" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605317133850" />
+-    <state width="1108" height="347" key="GridCell.Tab.2.left" timestamp="1605317133850">
++    <state width="1173" height="347" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606014722284" />
++    <state width="1173" height="347" key="GridCell.Tab.2.left" timestamp="1606014722284">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1108" height="347" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605317133850" />
+-    <state width="1108" height="347" key="GridCell.Tab.2.right" timestamp="1605317133850">
++    <state width="1173" height="347" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606014722284" />
++    <state width="1173" height="347" key="GridCell.Tab.2.right" timestamp="1606014722284">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1108" height="347" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605317133850" />
++    <state width="1173" height="347" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606014722284" />
+     <state x="880" y="98" key="SettingsEditor" timestamp="1605489411911">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+@@ -271,5 +329,23 @@
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605489244587" />
++    <state x="843" y="259" width="934" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1606014529268">
++      <screen x="0" y="0" width="1920" height="1040" />
++    </state>
++    <state x="843" y="259" width="934" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1606014529268" />
++    <state x="1125" y="271" key="refactoring.ChangeSignatureDialog" timestamp="1605992583841">
++      <screen x="0" y="0" width="1920" height="1040" />
++    </state>
++    <state x="1125" y="271" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605992583841" />
++  </component>
++  <component name="XDebuggerManager">
++    <breakpoint-manager>
++      <breakpoints>
++        <breakpoint enabled="true" type="java-exception">
++          <properties class="java.lang.IllegalArgumentException" package="java.lang" />
++          <option name="timeStamp" value="2" />
++        </breakpoint>
++      </breakpoints>
++    </breakpoint-manager>
+   </component>
+ </project>
+\ No newline at end of file
+diff --git out/production/proj3/.idea/shelf/Uncommitted_changes_before_Update_at_11_21_2020_11_07_AM__Default_Changelist_.xml out/production/proj3/.idea/shelf/Uncommitted_changes_before_Update_at_11_21_2020_11_07_AM__Default_Changelist_.xml
+diff --git .idea/shelf/Uncommitted_changes_before_Update_at_11_21_2020_12_16_PM__Default_Changelist_.xml .idea/shelf/Uncommitted_changes_before_Update_at_11_21_2020_12_16_PM__Default_Changelist_.xml
+diff --git .idea/shelf/Uncommitted_changes_before_Update_at_11_21_2020_11_07_AM__Default_Changelist_.xml .idea/shelf/Uncommitted_changes_before_Update_at_11_21_2020_11_07_AM__Default_Changelist_.xml
+diff --git .idea/shelf/Uncommitted_changes_before_Update_at_11_21_2020_12_21_PM__Default_Changelist_.xml .idea/shelf/Uncommitted_changes_before_Update_at_11_21_2020_12_21_PM__Default_Changelist_.xml

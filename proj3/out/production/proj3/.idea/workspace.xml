@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8bfb57f1-1b18-44c5-acea-c99bcbf91290" name="Default Changelist" comment="make proj3 folder">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proj3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj3/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1kFTlRW1uYJZQgBQ4JgDsmoQ2T3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="DemoInputSource" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="byow.InputDemo.DemoInputSource" />
+      <module name="proj3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="byow.InputDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Engine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="byow.Core.Engine" />
+      <module name="proj3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="byow.Core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="byow.Core.Main" />
+      <module name="proj3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="byow.Core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapGeneratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="byow.Core.MapGeneratorTest" />
+      <module name="proj3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="byow.Core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemoryGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="byow.lab13.MemoryGame" />
+      <module name="proj3" />
+      <option name="PROGRAM_PARAMETERS" value="12345" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="byow.lab13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <useClassPathOnly />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-XX:+ShowCodeDetailsInExceptionMessages" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.DemoInputSource" />
+        <item itemvalue="Application.MapGeneratorTest" />
+        <item itemvalue="Application.Engine" />
+        <item itemvalue="Application.MemoryGame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bfb57f1-1b18-44c5-acea-c99bcbf91290" name="Default Changelist" comment="" />
+      <created>1605295491295</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605295491295</updated>
+    </task>
+    <task id="LOCAL-00001" summary="lab12">
+      <created>1605316869639</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605316869639</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added room class, room drawing logic, todos">
+      <created>1605488566508</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605488566508</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added random line for clarity">
+      <created>1605488668317</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605488668317</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add libs">
+      <created>1605489239204</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605489239204</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fix last style">
+      <created>1606870268977</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606870268977</updated>
+    </task>
+    <task id="LOCAL-00006" summary="make proj3 folder">
+      <created>1606872607086</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606872607086</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="lab12" />
+    <MESSAGE value="Added room class, room drawing logic, todos" />
+    <MESSAGE value="Added random line for clarity" />
+    <MESSAGE value="add libs" />
+    <MESSAGE value="fix last style" />
+    <MESSAGE value="make proj3 folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="make proj3 folder" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1606869229554">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606869229554" />
+    <state x="1106" y="265" key="FileChooserDialogImpl" timestamp="1605489009625">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1106" y="265" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605489009625" />
+    <state width="1398" height="237" key="GridCell.Tab.0.bottom" timestamp="1606886943555">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="237" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606886943555" />
+    <state width="1877" height="178" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606872563474" />
+    <state width="1398" height="237" key="GridCell.Tab.0.center" timestamp="1606886943554">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="237" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1606886943554" />
+    <state width="1877" height="178" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606872563474" />
+    <state width="1398" height="237" key="GridCell.Tab.0.left" timestamp="1606886943552">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="237" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1606886943552" />
+    <state width="1877" height="178" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606872563474" />
+    <state width="1398" height="237" key="GridCell.Tab.0.right" timestamp="1606886943555">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="237" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1606886943555" />
+    <state width="1877" height="178" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606872563474" />
+    <state width="1877" height="286" key="GridCell.Tab.1.bottom" timestamp="1606869322148">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="286" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606869322148" />
+    <state width="1877" height="286" key="GridCell.Tab.1.center" timestamp="1606869322148">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="286" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606869322148" />
+    <state width="1877" height="286" key="GridCell.Tab.1.left" timestamp="1606869322148">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="286" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606869322148" />
+    <state width="1877" height="286" key="GridCell.Tab.1.right" timestamp="1606869322148">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="286" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606869322148" />
+    <state width="1877" height="286" key="GridCell.Tab.2.bottom" timestamp="1606869322148">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="286" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606869322148" />
+    <state width="1877" height="286" key="GridCell.Tab.2.center" timestamp="1606869322148">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="286" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606869322148" />
+    <state width="1877" height="286" key="GridCell.Tab.2.left" timestamp="1606869322148">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="286" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606869322148" />
+    <state width="1877" height="286" key="GridCell.Tab.2.right" timestamp="1606869322148">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="286" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606869322148" />
+    <state x="184" y="86" key="MergeDialog" timestamp="1606718678754">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="86" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606718678754" />
+    <state x="880" y="98" key="SettingsEditor" timestamp="1606872430716">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="416" y="57" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1606688290655" />
+    <state x="880" y="98" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606872430716" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606872612209">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606872612209" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606765812204">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606765812204" />
+    <state x="1175" y="0" width="265" height="900" key="dock-window-1" timestamp="1606379231191">
+      <screen x="0" y="25" width="1440" height="813" />
+    </state>
+    <state x="1055" y="0" width="385" height="900" key="dock-window-1/0.0.1440.900@0.0.1440.900" timestamp="1606376887169" />
+    <state x="754" y="0" width="686" height="900" key="dock-window-1/0.25.1440.809@0.25.1440.809" timestamp="1606377228243" />
+    <state x="1175" y="0" width="265" height="900" key="dock-window-1/0.25.1440.813@0.25.1440.813" timestamp="1606379231191" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1606773072653">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606773072653" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/fa20_proj3_g472$MemoryGame.ic" NAME="MemoryGame Coverage Results" MODIFIED="1606366026661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>byow.lab13.*</FILTER>
+    </SUITE>
+  </component>
+</project>
